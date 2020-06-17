@@ -11,15 +11,15 @@ your-title: Cybersecurity girl <3
 
 # Social settings
 500px_url: https://google.com
-facebook_url: 
+# facebook_url: 
 github_url: https://github.com/michelleamesquita
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+# gitlab_url: 
+# googleplus_url: 
+# instagram_url: 
 linkedin_url: https://www.linkedin.com/in/michelleamesquita
-pinterest_url:
-slack_url:
-twitter_url: 
+# pinterest_url:
+# slack_url:
+# twitter_url: 
 
 # Build settings
 markdown: kramdown
